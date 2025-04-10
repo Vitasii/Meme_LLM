@@ -1,0 +1,1650 @@
+[
+  {
+    "from": 4.88,
+    "to": 6.19,
+    "sid": 1,
+    "location": 2,
+    "content": "各位同学大家好",
+    "music": 0
+  },
+  {
+    "from": 6.19,
+    "to": 8.78,
+    "sid": 2,
+    "location": 2,
+    "content": "我想给同学们讲一讲读书的问题",
+    "music": 0
+  },
+  {
+    "from": 9.059,
+    "to": 13.98,
+    "sid": 3,
+    "location": 2,
+    "content": "其实同学们从小到大呢应该经常听说要读书",
+    "music": 0
+  },
+  {
+    "from": 15.3,
+    "to": 17.21,
+    "sid": 4,
+    "location": 2,
+    "content": "那我现在想问问各位",
+    "music": 0
+  },
+  {
+    "from": 17.21,
+    "to": 19.01,
+    "sid": 5,
+    "location": 2,
+    "content": "为什么要读书呢",
+    "music": 0
+  },
+  {
+    "from": 19.01,
+    "to": 22.05,
+    "sid": 6,
+    "location": 2,
+    "content": "很多人说万般皆下品",
+    "music": 0
+  },
+  {
+    "from": 22.05,
+    "to": 23.25,
+    "sid": 7,
+    "location": 2,
+    "content": "唯有读书高啊",
+    "music": 0
+  },
+  {
+    "from": 23.25,
+    "to": 25.14,
+    "sid": 8,
+    "location": 2,
+    "content": "因为读书能获得知识",
+    "music": 0
+  },
+  {
+    "from": 25.14,
+    "to": 27.06,
+    "sid": 9,
+    "location": 2,
+    "content": "读书能找到工作呀",
+    "music": 0
+  },
+  {
+    "from": 27.06,
+    "to": 29.2,
+    "sid": 10,
+    "location": 2,
+    "content": "我也不能说这是错的",
+    "music": 0
+  },
+  {
+    "from": 29.5,
+    "to": 31.3,
+    "sid": 11,
+    "location": 2,
+    "content": "相信大家都知道",
+    "music": 0
+  },
+  {
+    "from": 31.3,
+    "to": 32.5,
+    "sid": 12,
+    "location": 2,
+    "content": "中国古人所说的",
+    "music": 0
+  },
+  {
+    "from": 32.5,
+    "to": 34.06,
+    "sid": 13,
+    "location": 2,
+    "content": "书中自有黄金屋",
+    "music": 0
+  },
+  {
+    "from": 34.06,
+    "to": 36.019,
+    "sid": 14,
+    "location": 2,
+    "content": "书中自有颜如玉",
+    "music": 0
+  },
+  {
+    "from": 36.48,
+    "to": 38.64,
+    "sid": 15,
+    "location": 2,
+    "content": "书中自有千钟书",
+    "music": 0
+  },
+  {
+    "from": 38.64,
+    "to": 40.26,
+    "sid": 16,
+    "location": 2,
+    "content": "这是谁说的",
+    "music": 0
+  },
+  {
+    "from": 40.26,
+    "to": 42.21,
+    "sid": 17,
+    "location": 2,
+    "content": "这是一个皇帝说的",
+    "music": 0
+  },
+  {
+    "from": 42.21,
+    "to": 45.96,
+    "sid": 18,
+    "location": 2,
+    "content": "宋真宗皇帝说的",
+    "music": 0
+  },
+  {
+    "from": 47.82,
+    "to": 49.26,
+    "sid": 19,
+    "location": 2,
+    "content": "但是各位会发现",
+    "music": 0
+  },
+  {
+    "from": 50.18,
+    "to": 52.54,
+    "sid": 20,
+    "location": 2,
+    "content": "如果你读书的目的",
+    "music": 0
+  },
+  {
+    "from": 52.54,
+    "to": 55.14,
+    "sid": 21,
+    "location": 2,
+    "content": "只是这样一种功利性的目的的话",
+    "music": 0
+  },
+  {
+    "from": 56.92,
+    "to": 63.44,
+    "sid": 22,
+    "location": 2,
+    "content": "让你接受的就一定是一种成功主义的价值观",
+    "music": 0
+  },
+  {
+    "from": 63.44,
+    "to": 64.25,
+    "sid": 23,
+    "location": 2,
+    "content": "其实我们会发现",
+    "music": 0
+  },
+  {
+    "from": 64.25,
+    "to": 67.1,
+    "sid": 24,
+    "location": 2,
+    "content": "这个社会弥漫的都是成功主义的价值观",
+    "music": 0
+  },
+  {
+    "from": 67.1,
+    "to": 67.91,
+    "sid": 25,
+    "location": 2,
+    "content": "你要成功",
+    "music": 0
+  },
+  {
+    "from": 67.91,
+    "to": 68.84,
+    "sid": 26,
+    "location": 2,
+    "content": "你要出名",
+    "music": 0
+  },
+  {
+    "from": 68.96,
+    "to": 70.52,
+    "sid": 27,
+    "location": 2,
+    "content": "你要吃得苦中苦",
+    "music": 0
+  },
+  {
+    "from": 70.52,
+    "to": 73.3,
+    "sid": 28,
+    "location": 2,
+    "content": "吃得苦中苦的目的是为了成为人上人",
+    "music": 0
+  },
+  {
+    "from": 74.44,
+    "to": 80.44,
+    "sid": 29,
+    "location": 2,
+    "content": "那成功主义将成功作为评估一切价值的依据",
+    "music": 0
+  },
+  {
+    "from": 80.44,
+    "to": 81.97,
+    "sid": 30,
+    "location": 2,
+    "content": "但是各位要注意",
+    "music": 0
+  },
+  {
+    "from": 81.97,
+    "to": 84.64,
+    "sid": 31,
+    "location": 2,
+    "content": "如果读书的目的只是为了成功",
+    "music": 0
+  },
+  {
+    "from": 84.64,
+    "to": 86.86,
+    "sid": 32,
+    "location": 2,
+    "content": "其实很多书是没有必要读的",
+    "music": 0
+  },
+  {
+    "from": 88.94,
+    "to": 91.54,
+    "sid": 33,
+    "location": 2,
+    "content": "你学习法律就天天读法条就可以了吗",
+    "music": 0
+  },
+  {
+    "from": 91.54,
+    "to": 93.32,
+    "sid": 34,
+    "location": 2,
+    "content": "还需要读莎士比亚吗",
+    "music": 0
+  },
+  {
+    "from": 93.32,
+    "to": 95.18,
+    "sid": 35,
+    "location": 2,
+    "content": "还需要读论法的精神吗",
+    "music": 0
+  },
+  {
+    "from": 95.18,
+    "to": 96.47,
+    "sid": 36,
+    "location": 2,
+    "content": "没有必要啊",
+    "music": 0
+  },
+  {
+    "from": 96.47,
+    "to": 98.15,
+    "sid": 37,
+    "location": 2,
+    "content": "你的目的就成功了",
+    "music": 0
+  },
+  {
+    "from": 98.15,
+    "to": 100.07,
+    "sid": 38,
+    "location": 2,
+    "content": "多读读成功学不就得了吗",
+    "music": 0
+  },
+  {
+    "from": 100.07,
+    "to": 101.48,
+    "sid": 39,
+    "location": 2,
+    "content": "啊的的确确",
+    "music": 0
+  },
+  {
+    "from": 101.78,
+    "to": 106.36,
+    "sid": 40,
+    "location": 2,
+    "content": "各大畅销书基本上都是成功学的鸡汤类毒物",
+    "music": 0
+  },
+  {
+    "from": 106.96,
+    "to": 108.79,
+    "sid": 41,
+    "location": 2,
+    "content": "所以各位一定要注意",
+    "music": 0
+  },
+  {
+    "from": 108.79,
+    "to": 111.68,
+    "sid": 42,
+    "location": 2,
+    "content": "我们的读书一定有两种目的",
+    "music": 0
+  },
+  {
+    "from": 111.68,
+    "to": 114.02,
+    "sid": 43,
+    "location": 2,
+    "content": "当然我不否定有功利性的目的",
+    "music": 0
+  },
+  {
+    "from": 114.02,
+    "to": 115.64,
+    "sid": 44,
+    "location": 2,
+    "content": "很多同学要准备高考",
+    "music": 0
+  },
+  {
+    "from": 115.64,
+    "to": 117.32,
+    "sid": 45,
+    "location": 2,
+    "content": "要准备其他考试",
+    "music": 0
+  },
+  {
+    "from": 117.32,
+    "to": 119.32,
+    "sid": 46,
+    "location": 2,
+    "content": "那有功利性的读书",
+    "music": 0
+  },
+  {
+    "from": 119.64,
+    "to": 125.119,
+    "sid": 47,
+    "location": 2,
+    "content": "但是更重要的一种读书是非功利性的读书",
+    "music": 0
+  },
+  {
+    "from": 127.56,
+    "to": 130.49,
+    "sid": 48,
+    "location": 2,
+    "content": "因为只有这种非功利性的读书",
+    "music": 0
+  },
+  {
+    "from": 130.49,
+    "to": 135.12,
+    "sid": 49,
+    "location": 2,
+    "content": "你才能够抵制成功主义的读书",
+    "music": 0
+  },
+  {
+    "from": 135.28,
+    "to": 140,
+    "sid": 50,
+    "location": 2,
+    "content": "你才能够坦然地接受自己的命定",
+    "music": 0
+  },
+  {
+    "from": 140.16,
+    "to": 143.92,
+    "sid": 51,
+    "location": 2,
+    "content": "坦然地接受自己的失败",
+    "music": 0
+  },
+  {
+    "from": 144.76,
+    "to": 146.16,
+    "sid": 52,
+    "location": 2,
+    "content": "很多时候啊",
+    "music": 0
+  },
+  {
+    "from": 146.16,
+    "to": 148.1,
+    "sid": 53,
+    "location": 2,
+    "content": "一个人真正的成功",
+    "music": 0
+  },
+  {
+    "from": 148.1,
+    "to": 152.3,
+    "sid": 54,
+    "location": 2,
+    "content": "不是在他辉煌的时候有多么的风光",
+    "music": 0
+  },
+  {
+    "from": 152.3,
+    "to": 154.49,
+    "sid": 55,
+    "location": 2,
+    "content": "我相信绝大多数的同学",
+    "music": 0
+  },
+  {
+    "from": 154.49,
+    "to": 157.759,
+    "sid": 56,
+    "location": 2,
+    "content": "让你登上一个辉煌的舞台",
+    "music": 0
+  },
+  {
+    "from": 157.759,
+    "to": 160.68,
+    "sid": 57,
+    "location": 2,
+    "content": "你都会有辉煌的成就",
+    "music": 0
+  },
+  {
+    "from": 160.859,
+    "to": 164.939,
+    "sid": 58,
+    "location": 2,
+    "content": "但关键在于在你挫折的时候",
+    "music": 0
+  },
+  {
+    "from": 164.939,
+    "to": 167.04,
+    "sid": 59,
+    "location": 2,
+    "content": "在你低迷的时候",
+    "music": 0
+  },
+  {
+    "from": 167.04,
+    "to": 172.52,
+    "sid": 60,
+    "location": 2,
+    "content": "你是不是依然有勇气继续的前行",
+    "music": 0
+  },
+  {
+    "from": 173.26,
+    "to": 179.52,
+    "sid": 61,
+    "location": 2,
+    "content": "这就是为什么我们依然要进行非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 179.64,
+    "to": 182.46,
+    "sid": 62,
+    "location": 2,
+    "content": "因为只有非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 182.46,
+    "to": 186.76,
+    "sid": 63,
+    "location": 2,
+    "content": "才能够给我们提供一种真正的人生勇气",
+    "music": 0
+  },
+  {
+    "from": 186.799,
+    "to": 190.72,
+    "sid": 64,
+    "location": 2,
+    "content": "去面对人生的大风大浪",
+    "music": 0
+  },
+  {
+    "from": 192.439,
+    "to": 196.299,
+    "sid": 65,
+    "location": 2,
+    "content": "我当然不希望在座的同学这一生会遭遇挫折",
+    "music": 0
+  },
+  {
+    "from": 196.299,
+    "to": 197.349,
+    "sid": 66,
+    "location": 2,
+    "content": "会遭遇苦难",
+    "music": 0
+  },
+  {
+    "from": 197.349,
+    "to": 199.13,
+    "sid": 67,
+    "location": 2,
+    "content": "但是可以肯定的是",
+    "music": 0
+  },
+  {
+    "from": 199.13,
+    "to": 201.11,
+    "sid": 68,
+    "location": 2,
+    "content": "我们在座的每一个同学",
+    "music": 0
+  },
+  {
+    "from": 201.11,
+    "to": 203.57,
+    "sid": 69,
+    "location": 2,
+    "content": "这一生一定会遭遇挫折",
+    "music": 0
+  },
+  {
+    "from": 203.57,
+    "to": 205.8,
+    "sid": 70,
+    "location": 2,
+    "content": "一定会遭遇苦难",
+    "music": 0
+  },
+  {
+    "from": 206,
+    "to": 207.86,
+    "sid": 71,
+    "location": 2,
+    "content": "人为妇人所生",
+    "music": 0
+  },
+  {
+    "from": 210.8,
+    "to": 212.49,
+    "sid": 72,
+    "location": 2,
+    "content": "多有忧患",
+    "music": 0
+  },
+  {
+    "from": 212.49,
+    "to": 214.98,
+    "sid": 73,
+    "location": 2,
+    "content": "初来如花又被割下",
+    "music": 0
+  },
+  {
+    "from": 214.98,
+    "to": 216.57,
+    "sid": 74,
+    "location": 2,
+    "content": "飞去如影",
+    "music": 0
+  },
+  {
+    "from": 216.57,
+    "to": 218.07,
+    "sid": 75,
+    "location": 2,
+    "content": "不能存留",
+    "music": 0
+  },
+  {
+    "from": 218.07,
+    "to": 221.96,
+    "sid": 76,
+    "location": 2,
+    "content": "每个人这一生一定会遭遇苦难",
+    "music": 0
+  },
+  {
+    "from": 221.98,
+    "to": 223.93,
+    "sid": 77,
+    "location": 2,
+    "content": "那在苦难的时候",
+    "music": 0
+  },
+  {
+    "from": 223.93,
+    "to": 228.42,
+    "sid": 78,
+    "location": 2,
+    "content": "你是否依然有继续活下去的勇气",
+    "music": 0
+  },
+  {
+    "from": 228.56,
+    "to": 232.58,
+    "sid": 79,
+    "location": 2,
+    "content": "如果你接受的仅仅是成功主义的熏陶",
+    "music": 0
+  },
+  {
+    "from": 232.7,
+    "to": 235.82,
+    "sid": 80,
+    "location": 2,
+    "content": "你一定不会有这种力量",
+    "music": 0
+  },
+  {
+    "from": 235.82,
+    "to": 239.3,
+    "sid": 81,
+    "location": 2,
+    "content": "所以我们需要这种非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 240.6,
+    "to": 242.18,
+    "sid": 82,
+    "location": 2,
+    "content": "成功主义的阅读",
+    "music": 0
+  },
+  {
+    "from": 242.18,
+    "to": 245.84,
+    "sid": 83,
+    "location": 2,
+    "content": "功利主义的阅读一定会让人自高自大",
+    "music": 0
+  },
+  {
+    "from": 245.84,
+    "to": 247.34,
+    "sid": 84,
+    "location": 2,
+    "content": "孤标傲世",
+    "music": 0
+  },
+  {
+    "from": 247.34,
+    "to": 248.99,
+    "sid": 85,
+    "location": 2,
+    "content": "知识让人骄傲",
+    "music": 0
+  },
+  {
+    "from": 248.99,
+    "to": 251.32,
+    "sid": 86,
+    "location": 2,
+    "content": "为什么说文人相亲呢",
+    "music": 0
+  },
+  {
+    "from": 252.499,
+    "to": 255.579,
+    "sid": 87,
+    "location": 2,
+    "content": "因为知识总是让人瞧不起人",
+    "music": 0
+  },
+  {
+    "from": 255.579,
+    "to": 258.04,
+    "sid": 88,
+    "location": 2,
+    "content": "但是非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 258.36,
+    "to": 263.86,
+    "sid": 89,
+    "location": 2,
+    "content": "才能够真正的让你去意识到我们的渺小",
+    "music": 0
+  },
+  {
+    "from": 264.32,
+    "to": 267.38,
+    "sid": 90,
+    "location": 2,
+    "content": "才能培育我们的谦卑",
+    "music": 0
+  },
+  {
+    "from": 267.38,
+    "to": 268.76,
+    "sid": 91,
+    "location": 2,
+    "content": "其实你会发现",
+    "music": 0
+  },
+  {
+    "from": 268.76,
+    "to": 271.96,
+    "sid": 92,
+    "location": 2,
+    "content": "很多时候阅读具有一种悖论性",
+    "music": 0
+  },
+  {
+    "from": 271.96,
+    "to": 274.62,
+    "sid": 93,
+    "location": 2,
+    "content": "我们因为无知而去阅读",
+    "music": 0
+  },
+  {
+    "from": 275.02,
+    "to": 276.79,
+    "sid": 94,
+    "location": 2,
+    "content": "而我们越阅读",
+    "music": 0
+  },
+  {
+    "from": 276.79,
+    "to": 279.66,
+    "sid": 95,
+    "location": 2,
+    "content": "我们越承认自己是无知的",
+    "music": 0
+  },
+  {
+    "from": 280.159,
+    "to": 282.379,
+    "sid": 96,
+    "location": 2,
+    "content": "就是苏格拉底所说的",
+    "music": 0
+  },
+  {
+    "from": 282.379,
+    "to": 286.9,
+    "sid": 97,
+    "location": 2,
+    "content": "承认自己的无知乃是开启智慧的大门",
+    "music": 0
+  },
+  {
+    "from": 287.24,
+    "to": 289.97,
+    "sid": 98,
+    "location": 2,
+    "content": "这个世界不缺聪明的人",
+    "music": 0
+  },
+  {
+    "from": 289.97,
+    "to": 293.15,
+    "sid": 99,
+    "location": 2,
+    "content": "这个世界缺的是有智慧的人",
+    "music": 0
+  },
+  {
+    "from": 293.15,
+    "to": 295.26,
+    "sid": 100,
+    "location": 2,
+    "content": "就像无问西东所说的",
+    "music": 0
+  },
+  {
+    "from": 296.34,
+    "to": 298.31,
+    "sid": 101,
+    "location": 2,
+    "content": "我们不需要完美的人",
+    "music": 0
+  },
+  {
+    "from": 298.31,
+    "to": 303.62,
+    "sid": 102,
+    "location": 2,
+    "content": "我们需要的是否能够从心底发出的勇敢正直",
+    "music": 0
+  },
+  {
+    "from": 303.62,
+    "to": 305.54,
+    "sid": 103,
+    "location": 2,
+    "content": "真心和勇气",
+    "music": 0
+  },
+  {
+    "from": 306.139,
+    "to": 309.009,
+    "sid": 104,
+    "location": 2,
+    "content": "这个世界上有许许多人都很聪明",
+    "music": 0
+  },
+  {
+    "from": 309.009,
+    "to": 311.529,
+    "sid": 105,
+    "location": 2,
+    "content": "但是聪明人不一定有智慧",
+    "music": 0
+  },
+  {
+    "from": 311.529,
+    "to": 313.029,
+    "sid": 106,
+    "location": 2,
+    "content": "一个智慧的人",
+    "music": 0
+  },
+  {
+    "from": 313.029,
+    "to": 314.96,
+    "sid": 107,
+    "location": 2,
+    "content": "一定是一个谦卑的人",
+    "music": 0
+  },
+  {
+    "from": 314.979,
+    "to": 316.719,
+    "sid": 108,
+    "location": 2,
+    "content": "承认自己的无知",
+    "music": 0
+  },
+  {
+    "from": 316.719,
+    "to": 318.759,
+    "sid": 109,
+    "location": 2,
+    "content": "乃是开启智慧的大门",
+    "music": 0
+  },
+  {
+    "from": 318.759,
+    "to": 320.049,
+    "sid": 110,
+    "location": 2,
+    "content": "你越阅读",
+    "music": 0
+  },
+  {
+    "from": 320.049,
+    "to": 323.51,
+    "sid": 111,
+    "location": 2,
+    "content": "你越站在人类知识的巅峰",
+    "music": 0
+  },
+  {
+    "from": 323.51,
+    "to": 325.49,
+    "sid": 112,
+    "location": 2,
+    "content": "你望尽天涯路",
+    "music": 0
+  },
+  {
+    "from": 325.49,
+    "to": 328.28,
+    "sid": 113,
+    "location": 2,
+    "content": "你才会发现我是如此的渺小",
+    "music": 0
+  },
+  {
+    "from": 329.46,
+    "to": 332.48,
+    "sid": 114,
+    "location": 2,
+    "content": "我只是看到了知识的惊鸿一瞥",
+    "music": 0
+  },
+  {
+    "from": 332.48,
+    "to": 334.04,
+    "sid": 115,
+    "location": 2,
+    "content": "还有那么多的东西",
+    "music": 0
+  },
+  {
+    "from": 334.04,
+    "to": 340.97,
+    "sid": 116,
+    "location": 2,
+    "content": "我不知道这样才可以遏制你内心的知识优越感",
+    "music": 0
+  },
+  {
+    "from": 340.97,
+    "to": 346.52,
+    "sid": 117,
+    "location": 2,
+    "content": "才能让你真正的发自内心的去尊重他家",
+    "music": 0
+  },
+  {
+    "from": 348.52,
+    "to": 352.18,
+    "sid": 118,
+    "location": 2,
+    "content": "避免狂妄自大",
+    "music": 0
+  },
+  {
+    "from": 353.56,
+    "to": 355.47,
+    "sid": 119,
+    "location": 2,
+    "content": "只有非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 355.47,
+    "to": 358.26,
+    "sid": 120,
+    "location": 2,
+    "content": "才能不断地丰富你的内心",
+    "music": 0
+  },
+  {
+    "from": 358.58,
+    "to": 362.83,
+    "sid": 121,
+    "location": 2,
+    "content": "让你抵制外界的浮华",
+    "music": 0
+  },
+  {
+    "from": 362.83,
+    "to": 364.6,
+    "sid": 122,
+    "location": 2,
+    "content": "外界的虚荣",
+    "music": 0
+  },
+  {
+    "from": 364.6,
+    "to": 367.54,
+    "sid": 123,
+    "location": 2,
+    "content": "我非常喜欢魔鬼代言人那部影片",
+    "music": 0
+  },
+  {
+    "from": 367.88,
+    "to": 370.61,
+    "sid": 124,
+    "location": 2,
+    "content": "因为那部影片让我真正的知道",
+    "music": 0
+  },
+  {
+    "from": 370.61,
+    "to": 374.6,
+    "sid": 125,
+    "location": 2,
+    "content": "我们这一生要对抗的就是虚荣和虚空",
+    "music": 0
+  },
+  {
+    "from": 374.64,
+    "to": 376.29,
+    "sid": 126,
+    "location": 2,
+    "content": "虚荣和虚空",
+    "music": 0
+  },
+  {
+    "from": 376.29,
+    "to": 379.24,
+    "sid": 127,
+    "location": 2,
+    "content": "它是不断周而循环的",
+    "music": 0
+  },
+  {
+    "from": 379.5,
+    "to": 381.84,
+    "sid": 128,
+    "location": 2,
+    "content": "一个虚无的人会寻找虚空",
+    "music": 0
+  },
+  {
+    "from": 381.84,
+    "to": 384.789,
+    "sid": 129,
+    "location": 2,
+    "content": "一个虚空的人会不断的虚无",
+    "music": 0
+  },
+  {
+    "from": 384.789,
+    "to": 387.789,
+    "sid": 130,
+    "location": 2,
+    "content": "所以魔鬼代言人最后的结尾是虚荣",
+    "music": 0
+  },
+  {
+    "from": 387.789,
+    "to": 390.76,
+    "sid": 131,
+    "location": 2,
+    "content": "魔鬼最喜欢的人的原罪",
+    "music": 0
+  },
+  {
+    "from": 392.74,
+    "to": 395.25,
+    "sid": 132,
+    "location": 2,
+    "content": "如果你不做这些非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 395.25,
+    "to": 398.8,
+    "sid": 133,
+    "location": 2,
+    "content": "你永远无法培养你内心的这种父母",
+    "music": 0
+  },
+  {
+    "from": 399.94,
+    "to": 403.68,
+    "sid": 134,
+    "location": 2,
+    "content": "那第二我们要读什么书呢",
+    "music": 0
+  },
+  {
+    "from": 403.68,
+    "to": 404.76,
+    "sid": 135,
+    "location": 2,
+    "content": "刚才我们说过",
+    "music": 0
+  },
+  {
+    "from": 404.76,
+    "to": 406.56,
+    "sid": 136,
+    "location": 2,
+    "content": "我们除了要有功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 406.56,
+    "to": 409.14,
+    "sid": 137,
+    "location": 2,
+    "content": "我们更多的还有非功利性的阅读",
+    "music": 0
+  },
+  {
+    "from": 409.84,
+    "to": 411.76,
+    "sid": 138,
+    "location": 2,
+    "content": "我们要培育自己的智慧",
+    "music": 0
+  },
+  {
+    "from": 413.88,
+    "to": 416.72,
+    "sid": 139,
+    "location": 2,
+    "content": "我们文科生说文史则是不分家的",
+    "music": 0
+  },
+  {
+    "from": 416.72,
+    "to": 418.34,
+    "sid": 140,
+    "location": 2,
+    "content": "我们要读文学作品",
+    "music": 0
+  },
+  {
+    "from": 418.34,
+    "to": 420.28,
+    "sid": 141,
+    "location": 2,
+    "content": "我们要读历史作品",
+    "music": 0
+  },
+  {
+    "from": 421.36,
+    "to": 423.39,
+    "sid": 142,
+    "location": 2,
+    "content": "我们要读哲学作品",
+    "music": 0
+  },
+  {
+    "from": 423.39,
+    "to": 425.37,
+    "sid": 143,
+    "location": 2,
+    "content": "我们要不断地阅读",
+    "music": 0
+  },
+  {
+    "from": 425.37,
+    "to": 430.08,
+    "sid": 144,
+    "location": 2,
+    "content": "穷尽我们知识的想象力",
+    "music": 0
+  },
+  {
+    "from": 430.08,
+    "to": 432.76,
+    "sid": 145,
+    "location": 2,
+    "content": "让我们知道在人类历史的长河中",
+    "music": 0
+  },
+  {
+    "from": 434.84,
+    "to": 436.9,
+    "sid": 146,
+    "location": 2,
+    "content": "有如此多伟大的灵魂",
+    "music": 0
+  },
+  {
+    "from": 436.9,
+    "to": 438.94,
+    "sid": 147,
+    "location": 2,
+    "content": "我们要与他们去对话",
+    "music": 0
+  },
+  {
+    "from": 438.94,
+    "to": 442.82,
+    "sid": 148,
+    "location": 2,
+    "content": "同时我们也会发现这么多伟大的灵魂",
+    "music": 0
+  },
+  {
+    "from": 443.06,
+    "to": 446.939,
+    "sid": 149,
+    "location": 2,
+    "content": "他们的一生并不是平平顺顺的",
+    "music": 0
+  },
+  {
+    "from": 446.939,
+    "to": 448.259,
+    "sid": 150,
+    "location": 2,
+    "content": "他们会遭遇挫折",
+    "music": 0
+  },
+  {
+    "from": 448.259,
+    "to": 449.7,
+    "sid": 151,
+    "location": 2,
+    "content": "他们会遭遇苦难",
+    "music": 0
+  },
+  {
+    "from": 450.08,
+    "to": 452.36,
+    "sid": 152,
+    "location": 2,
+    "content": "如果他们会遭遇苦难",
+    "music": 0
+  },
+  {
+    "from": 452.36,
+    "to": 457.52,
+    "sid": 153,
+    "location": 2,
+    "content": "那为什么你就不能够与你的苦难和解",
+    "music": 0
+  },
+  {
+    "from": 457.74,
+    "to": 462.09,
+    "sid": 154,
+    "location": 2,
+    "content": "你就为什么不能把苦难当做你人生的剧本",
+    "music": 0
+  },
+  {
+    "from": 462.09,
+    "to": 465.94,
+    "sid": 155,
+    "location": 2,
+    "content": "当做你必须演好的一个剧本",
+    "music": 0
+  },
+  {
+    "from": 467.24,
+    "to": 469.18,
+    "sid": 156,
+    "location": 2,
+    "content": "我们要阅读哲学",
+    "music": 0
+  },
+  {
+    "from": 469.18,
+    "to": 472.09,
+    "sid": 157,
+    "location": 2,
+    "content": "因为哲学可以培养我们的世界观",
+    "music": 0
+  },
+  {
+    "from": 472.09,
+    "to": 473.32,
+    "sid": 158,
+    "location": 2,
+    "content": "什么叫哲学",
+    "music": 0
+  },
+  {
+    "from": 473.32,
+    "to": 474.86,
+    "sid": 159,
+    "location": 2,
+    "content": "哲学叫爱智慧",
+    "music": 0
+  },
+  {
+    "from": 475.08,
+    "to": 479.76,
+    "sid": 160,
+    "location": 2,
+    "content": "所有的哲学说白了都是在为人的死亡做预备",
+    "music": 0
+  },
+  {
+    "from": 479.76,
+    "to": 481.44,
+    "sid": 161,
+    "location": 2,
+    "content": "我们在座的每一个人",
+    "music": 0
+  },
+  {
+    "from": 481.44,
+    "to": 484.28,
+    "sid": 162,
+    "location": 2,
+    "content": "终将有一天会离开这个世界",
+    "music": 0
+  },
+  {
+    "from": 484.7,
+    "to": 487.28,
+    "sid": 163,
+    "location": 2,
+    "content": "我们要为我们的死亡做预备",
+    "music": 0
+  },
+  {
+    "from": 487.28,
+    "to": 488.98,
+    "sid": 164,
+    "location": 2,
+    "content": "我们要去思考",
+    "music": 0
+  },
+  {
+    "from": 489.879,
+    "to": 492.14,
+    "sid": 165,
+    "location": 2,
+    "content": "我们为什么要活在这个世界",
+    "music": 0
+  },
+  {
+    "from": 492.34,
+    "to": 494.95,
+    "sid": 166,
+    "location": 2,
+    "content": "我们活在这个世界的目的是什么",
+    "music": 0
+  },
+  {
+    "from": 494.95,
+    "to": 499.34,
+    "sid": 167,
+    "location": 2,
+    "content": "有没有一种信念让我们为之生而为之死",
+    "music": 0
+  },
+  {
+    "from": 499.76,
+    "to": 502.48,
+    "sid": 168,
+    "location": 2,
+    "content": "你要去阅读这些作品",
+    "music": 0
+  },
+  {
+    "from": 503.379,
+    "to": 505.229,
+    "sid": 169,
+    "location": 2,
+    "content": "那最后怎么阅读呢",
+    "music": 0
+  },
+  {
+    "from": 505.229,
+    "to": 508.36,
+    "sid": 170,
+    "location": 2,
+    "content": "有很多同学说老师我读着读着我就忘了",
+    "music": 0
+  },
+  {
+    "from": 508.7,
+    "to": 509.6,
+    "sid": 171,
+    "location": 2,
+    "content": "记住",
+    "music": 0
+  },
+  {
+    "from": 509.6,
+    "to": 511.55,
+    "sid": 172,
+    "location": 2,
+    "content": "读书不是为了炫耀",
+    "music": 0
+  },
+  {
+    "from": 511.55,
+    "to": 512.36,
+    "sid": 173,
+    "location": 2,
+    "content": "读书",
+    "music": 0
+  },
+  {
+    "from": 512.36,
+    "to": 514.079,
+    "sid": 174,
+    "location": 2,
+    "content": "只是为了培养你的智慧",
+    "music": 0
+  },
+  {
+    "from": 514.46,
+    "to": 517.4,
+    "sid": 175,
+    "location": 2,
+    "content": "有哪个同学记得昨天你吃了什么",
+    "music": 0
+  },
+  {
+    "from": 517.4,
+    "to": 521.3,
+    "sid": 176,
+    "location": 2,
+    "content": "记得三天前你的菜单是什么",
+    "music": 0
+  },
+  {
+    "from": 521.3,
+    "to": 522.41,
+    "sid": 177,
+    "location": 2,
+    "content": "你记不住了",
+    "music": 0
+  },
+  {
+    "from": 522.41,
+    "to": 525.95,
+    "sid": 178,
+    "location": 2,
+    "content": "但这些东西都成为了你的养分",
+    "music": 0
+  },
+  {
+    "from": 525.95,
+    "to": 527.64,
+    "sid": 179,
+    "location": 2,
+    "content": "读书也是这样",
+    "music": 0
+  },
+  {
+    "from": 528,
+    "to": 530.76,
+    "sid": 180,
+    "location": 2,
+    "content": "我们很多时候好读书不求甚解",
+    "music": 0
+  },
+  {
+    "from": 530.76,
+    "to": 533.76,
+    "sid": 181,
+    "location": 2,
+    "content": "我们并不需要记住那些精彩的段落",
+    "music": 0
+  },
+  {
+    "from": 533.76,
+    "to": 535.41,
+    "sid": 182,
+    "location": 2,
+    "content": "我们只需要去读",
+    "music": 0
+  },
+  {
+    "from": 535.41,
+    "to": 537.87,
+    "sid": 183,
+    "location": 2,
+    "content": "慢慢的就成为了我们的养分",
+    "music": 0
+  },
+  {
+    "from": 537.87,
+    "to": 542.18,
+    "sid": 184,
+    "location": 2,
+    "content": "我们需要需要与人类伟大的灵魂去对话",
+    "music": 0
+  },
+  {
+    "from": 542.5,
+    "to": 546.79,
+    "sid": 185,
+    "location": 2,
+    "content": "当然我这里面推荐一本书叫如何阅读一本书",
+    "music": 0
+  },
+  {
+    "from": 546.79,
+    "to": 549.01,
+    "sid": 186,
+    "location": 2,
+    "content": "如果你不知道如何去阅读",
+    "music": 0
+  },
+  {
+    "from": 549.01,
+    "to": 551.26,
+    "sid": 187,
+    "location": 2,
+    "content": "你先可以读一读这本书",
+    "music": 0
+  },
+  {
+    "from": 551.26,
+    "to": 553.45,
+    "sid": 188,
+    "location": 2,
+    "content": "如何去阅读一本书",
+    "music": 0
+  },
+  {
+    "from": 553.45,
+    "to": 557.42,
+    "sid": 189,
+    "location": 2,
+    "content": "而这本书后面也开裂了大量的书单",
+    "music": 0
+  },
+  {
+    "from": 558.18,
+    "to": 562.3,
+    "sid": 190,
+    "location": 2,
+    "content": "让你和人类伟大的灵魂去对话",
+    "music": 0
+  },
+  {
+    "from": 563.18,
+    "to": 567.13,
+    "sid": 191,
+    "location": 2,
+    "content": "我们的阅读永远不要只读自己喜欢读的",
+    "music": 0
+  },
+  {
+    "from": 567.13,
+    "to": 570.07,
+    "sid": 192,
+    "location": 2,
+    "content": "我们要读挑战我们的书籍",
+    "music": 0
+  },
+  {
+    "from": 570.07,
+    "to": 572.56,
+    "sid": 193,
+    "location": 2,
+    "content": "如果一本书不能够挑战我们",
+    "music": 0
+  },
+  {
+    "from": 572.56,
+    "to": 574.219,
+    "sid": 194,
+    "location": 2,
+    "content": "我们为什么要读它",
+    "music": 0
+  },
+  {
+    "from": 574.28,
+    "to": 577.22,
+    "sid": 195,
+    "location": 2,
+    "content": "如果一本书不能够挑战我们",
+    "music": 0
+  },
+  {
+    "from": 577.22,
+    "to": 580.1,
+    "sid": 196,
+    "location": 2,
+    "content": "我们如何去走出自己的狭隘",
+    "music": 0
+  },
+  {
+    "from": 580.1,
+    "to": 581.42,
+    "sid": 197,
+    "location": 2,
+    "content": "自己的偏见",
+    "music": 0
+  },
+  {
+    "from": 581.5,
+    "to": 583.18,
+    "sid": 198,
+    "location": 2,
+    "content": "所以卡夫卡说",
+    "music": 0
+  },
+  {
+    "from": 583.28,
+    "to": 585.95,
+    "sid": 199,
+    "location": 2,
+    "content": "一本书就像一般",
+    "music": 0
+  },
+  {
+    "from": 585.95,
+    "to": 591.08,
+    "sid": 200,
+    "location": 2,
+    "content": "一把利斧要劈开我们冰封的类型",
+    "music": 0
+  },
+  {
+    "from": 592.7,
+    "to": 594,
+    "sid": 201,
+    "location": 2,
+    "content": "您准备好了吗",
+    "music": 0
+  },
+  {
+    "from": 594.36,
+    "to": 597.18,
+    "sid": 202,
+    "location": 2,
+    "content": "跟人类伟大的灵魂对话",
+    "music": 0
+  },
+  {
+    "from": 597.18,
+    "to": 602.08,
+    "sid": 203,
+    "location": 2,
+    "content": "用他的利斧去劈开你的冰冷",
+    "music": 0
+  },
+  {
+    "from": 602.08,
+    "to": 603.31,
+    "sid": 204,
+    "location": 2,
+    "content": "傲慢",
+    "music": 0
+  },
+  {
+    "from": 603.31,
+    "to": 606.73,
+    "sid": 205,
+    "location": 2,
+    "content": "自恋与自怜的内心",
+    "music": 0
+  },
+  {
+    "from": 606.73,
+    "to": 607.64,
+    "sid": 206,
+    "location": 2,
+    "content": "谢谢各位",
+    "music": 0
+  }
+]
