@@ -1,0 +1,1378 @@
+[
+  {
+    "from": 4.7,
+    "to": 6.04,
+    "sid": 1,
+    "location": 2,
+    "content": "各位同学大家好啊",
+    "music": 0
+  },
+  {
+    "from": 6.04,
+    "to": 8.11,
+    "sid": 2,
+    "location": 2,
+    "content": "我今天呢想给大家聊一聊",
+    "music": 0
+  },
+  {
+    "from": 8.11,
+    "to": 10.37,
+    "sid": 3,
+    "location": 2,
+    "content": "跟电车难题有关的法律问题",
+    "music": 0
+  },
+  {
+    "from": 10.37,
+    "to": 13.67,
+    "sid": 4,
+    "location": 2,
+    "content": "那这段时间很多同学希望我讲一讲电车难题",
+    "music": 0
+  },
+  {
+    "from": 13.67,
+    "to": 16.67,
+    "sid": 5,
+    "location": 2,
+    "content": "相信大家都知道这个著名的哲学命题",
+    "music": 0
+  },
+  {
+    "from": 16.67,
+    "to": 20.66,
+    "sid": 6,
+    "location": 2,
+    "content": "一个疯子呢在一个铁轨上捆了五个无辜的人",
+    "music": 0
+  },
+  {
+    "from": 20.66,
+    "to": 22.94,
+    "sid": 7,
+    "location": 2,
+    "content": "现在一辆火车疾驰而过",
+    "music": 0
+  },
+  {
+    "from": 22.94,
+    "to": 25.58,
+    "sid": 8,
+    "location": 2,
+    "content": "那你呢可以改变这个火车的轨道",
+    "music": 0
+  },
+  {
+    "from": 25.58,
+    "to": 29.03,
+    "sid": 9,
+    "location": 2,
+    "content": "但是另外一个轨道也捆了一个无辜的人",
+    "music": 0
+  },
+  {
+    "from": 29.03,
+    "to": 30.13,
+    "sid": 10,
+    "location": 2,
+    "content": "所以如果是你",
+    "music": 0
+  },
+  {
+    "from": 30.13,
+    "to": 32.83,
+    "sid": 11,
+    "location": 2,
+    "content": "你会不会帮下这个轨道呢",
+    "music": 0
+  },
+  {
+    "from": 32.83,
+    "to": 34.59,
+    "sid": 12,
+    "location": 2,
+    "content": "牺牲那个无辜的人",
+    "music": 0
+  },
+  {
+    "from": 34.59,
+    "to": 38.22,
+    "sid": 13,
+    "location": 2,
+    "content": "来保留另外五个无辜人的生命呢",
+    "music": 0
+  },
+  {
+    "from": 38.22,
+    "to": 40.3,
+    "sid": 14,
+    "location": 2,
+    "content": "这个就叫电车难题",
+    "music": 0
+  },
+  {
+    "from": 40.3,
+    "to": 43,
+    "sid": 15,
+    "location": 2,
+    "content": "我有一次和我的一个朋友讨论这个案件",
+    "music": 0
+  },
+  {
+    "from": 43,
+    "to": 45.519,
+    "sid": 16,
+    "location": 2,
+    "content": "我的朋友的回答让我大惊失色",
+    "music": 0
+  },
+  {
+    "from": 45.519,
+    "to": 46.419,
+    "sid": 17,
+    "location": 2,
+    "content": "我的朋友说",
+    "music": 0
+  },
+  {
+    "from": 46.419,
+    "to": 50.079,
+    "sid": 18,
+    "location": 2,
+    "content": "这都是一些无聊的哲学家设计的无聊的问题",
+    "music": 0
+  },
+  {
+    "from": 50.079,
+    "to": 51.549,
+    "sid": 19,
+    "location": 2,
+    "content": "如果真的有时间",
+    "music": 0
+  },
+  {
+    "from": 51.549,
+    "to": 54.67,
+    "sid": 20,
+    "location": 2,
+    "content": "还不如真正的去关心一下你周围的人",
+    "music": 0
+  },
+  {
+    "from": 54.67,
+    "to": 57.73,
+    "sid": 21,
+    "location": 2,
+    "content": "去真正的爱你周围那些具体的人",
+    "music": 0
+  },
+  {
+    "from": 57.73,
+    "to": 62.32,
+    "sid": 22,
+    "location": 2,
+    "content": "不要陷于这种抽象的啊哲学思考毫无意义",
+    "music": 0
+  },
+  {
+    "from": 62.32,
+    "to": 64.66,
+    "sid": 23,
+    "location": 2,
+    "content": "唉我觉得他说的也蛮有道理的",
+    "music": 0
+  },
+  {
+    "from": 64.66,
+    "to": 68.44,
+    "sid": 24,
+    "location": 2,
+    "content": "很多时候我们的哲学哲学思考",
+    "music": 0
+  },
+  {
+    "from": 68.44,
+    "to": 71.92,
+    "sid": 25,
+    "location": 2,
+    "content": "反而会使得我们对身边的具体人",
+    "music": 0
+  },
+  {
+    "from": 71.92,
+    "to": 73.87,
+    "sid": 26,
+    "location": 2,
+    "content": "失去了应有的关系",
+    "music": 0
+  },
+  {
+    "from": 73.87,
+    "to": 76.39,
+    "sid": 27,
+    "location": 2,
+    "content": "但是既然有很多同学来经常问我",
+    "music": 0
+  },
+  {
+    "from": 76.39,
+    "to": 78.58,
+    "sid": 28,
+    "location": 2,
+    "content": "电车难题应该如何解决",
+    "music": 0
+  },
+  {
+    "from": 78.58,
+    "to": 81.41,
+    "sid": 29,
+    "location": 2,
+    "content": "那我还是想简单的谈一谈我的看法",
+    "music": 0
+  },
+  {
+    "from": 81.41,
+    "to": 86.17,
+    "sid": 30,
+    "location": 2,
+    "content": "那在哲学观念中显然有两种针锋相对的观点",
+    "music": 0
+  },
+  {
+    "from": 86.17,
+    "to": 88.15,
+    "sid": 31,
+    "location": 2,
+    "content": "一种是道德主义",
+    "music": 0
+  },
+  {
+    "from": 88.15,
+    "to": 89.53,
+    "sid": 32,
+    "location": 2,
+    "content": "一种是功利主义",
+    "music": 0
+  },
+  {
+    "from": 89.53,
+    "to": 91.48,
+    "sid": 33,
+    "location": 2,
+    "content": "那在道德主义看来",
+    "music": 0
+  },
+  {
+    "from": 91.82,
+    "to": 93.44,
+    "sid": 34,
+    "location": 2,
+    "content": "人只能是目的",
+    "music": 0
+  },
+  {
+    "from": 93.44,
+    "to": 95.21,
+    "sid": 35,
+    "location": 2,
+    "content": "人不能是纯粹的手段",
+    "music": 0
+  },
+  {
+    "from": 95.21,
+    "to": 96.95,
+    "sid": 36,
+    "location": 2,
+    "content": "所以在任何情况下",
+    "music": 0
+  },
+  {
+    "from": 96.95,
+    "to": 100.76,
+    "sid": 37,
+    "location": 2,
+    "content": "我能都不能牺牲一个无辜的人",
+    "music": 0
+  },
+  {
+    "from": 100.76,
+    "to": 102.65,
+    "sid": 38,
+    "location": 2,
+    "content": "去挽救他人的生命",
+    "music": 0
+  },
+  {
+    "from": 102.65,
+    "to": 106.7,
+    "sid": 39,
+    "location": 2,
+    "content": "因为没有人有权力去剥夺他人的生命",
+    "music": 0
+  },
+  {
+    "from": 106.7,
+    "to": 110.509,
+    "sid": 40,
+    "location": 2,
+    "content": "所以听天由命就是一种最好的选择",
+    "music": 0
+  },
+  {
+    "from": 110.509,
+    "to": 113.269,
+    "sid": 41,
+    "location": 2,
+    "content": "那道德主义最骄傲的表述是什么呢",
+    "music": 0
+  },
+  {
+    "from": 113.269,
+    "to": 114.889,
+    "sid": 42,
+    "location": 2,
+    "content": "即便天塌下来",
+    "music": 0
+  },
+  {
+    "from": 114.889,
+    "to": 117.18,
+    "sid": 43,
+    "location": 2,
+    "content": "正义也要得到践行",
+    "music": 0
+  },
+  {
+    "from": 117.18,
+    "to": 121.44,
+    "sid": 44,
+    "location": 2,
+    "content": "这就像当年丘吉尔向希特勒德国宣战的时候",
+    "music": 0
+  },
+  {
+    "from": 121.44,
+    "to": 123.64,
+    "sid": 45,
+    "location": 2,
+    "content": "曾经做过一个著名的演讲",
+    "music": 0
+  },
+  {
+    "from": 123.64,
+    "to": 127.71,
+    "sid": 46,
+    "location": 2,
+    "content": "他说即便我们跟纳粹战斗到底",
+    "music": 0
+  },
+  {
+    "from": 127.71,
+    "to": 130.41,
+    "sid": 47,
+    "location": 2,
+    "content": "我们英国可能会亡国灭种",
+    "music": 0
+  },
+  {
+    "from": 130.41,
+    "to": 132.12,
+    "sid": 48,
+    "location": 2,
+    "content": "那就亡国灭种吗",
+    "music": 0
+  },
+  {
+    "from": 132.12,
+    "to": 133.84,
+    "sid": 49,
+    "location": 2,
+    "content": "亡国灭种啊",
+    "music": 0
+  },
+  {
+    "from": 133.84,
+    "to": 137.48,
+    "sid": 50,
+    "location": 2,
+    "content": "总比做这种亡国奴要强",
+    "music": 0
+  },
+  {
+    "from": 138.399,
+    "to": 141.149,
+    "sid": 51,
+    "location": 2,
+    "content": "无论付出任何代价",
+    "music": 0
+  },
+  {
+    "from": 141.149,
+    "to": 143.309,
+    "sid": 52,
+    "location": 2,
+    "content": "道义都要得到伸张",
+    "music": 0
+  },
+  {
+    "from": 143.309,
+    "to": 144.48,
+    "sid": 53,
+    "location": 2,
+    "content": "这是道德主义",
+    "music": 0
+  },
+  {
+    "from": 144.48,
+    "to": 146.94,
+    "sid": 54,
+    "location": 2,
+    "content": "但是功利主义却不这么看",
+    "music": 0
+  },
+  {
+    "from": 146.94,
+    "to": 148.1,
+    "sid": 55,
+    "location": 2,
+    "content": "功利主义说",
+    "music": 0
+  },
+  {
+    "from": 148.1,
+    "to": 153.2,
+    "sid": 56,
+    "location": 2,
+    "content": "那还是要根据事物的结果来决定一种行为",
+    "music": 0
+  },
+  {
+    "from": 153.2,
+    "to": 155.23,
+    "sid": 57,
+    "location": 2,
+    "content": "值得做还是不值得做",
+    "music": 0
+  },
+  {
+    "from": 155.23,
+    "to": 157.33,
+    "sid": 58,
+    "location": 2,
+    "content": "所以一边是五个人",
+    "music": 0
+  },
+  {
+    "from": 157.33,
+    "to": 158.86,
+    "sid": 59,
+    "location": 2,
+    "content": "一边是一个人",
+    "music": 0
+  },
+  {
+    "from": 158.86,
+    "to": 162.49,
+    "sid": 60,
+    "location": 2,
+    "content": "那数学公式就会知道五是大于一的呀",
+    "music": 0
+  },
+  {
+    "from": 162.49,
+    "to": 166.73,
+    "sid": 61,
+    "location": 2,
+    "content": "所以功利主义可能就倾向于还是要进行半导",
+    "music": 0
+  },
+  {
+    "from": 166.73,
+    "to": 170,
+    "sid": 62,
+    "location": 2,
+    "content": "但是后来呢也有一些功利主义认为",
+    "music": 0
+  },
+  {
+    "from": 170,
+    "to": 171.11,
+    "sid": 63,
+    "location": 2,
+    "content": "这里面的问题",
+    "music": 0
+  },
+  {
+    "from": 171.11,
+    "to": 174.31,
+    "sid": 64,
+    "location": 2,
+    "content": "可能不单纯是一个五合一的判断问题",
+    "music": 0
+  },
+  {
+    "from": 174.31,
+    "to": 176.94,
+    "sid": 65,
+    "location": 2,
+    "content": "这里面最根本的问题",
+    "music": 0
+  },
+  {
+    "from": 176.94,
+    "to": 180.12,
+    "sid": 66,
+    "location": 2,
+    "content": "可能是一个生命能不能比较的问题",
+    "music": 0
+  },
+  {
+    "from": 180.12,
+    "to": 183.54,
+    "sid": 67,
+    "location": 2,
+    "content": "那也许生命是不能够进行比较的",
+    "music": 0
+  },
+  {
+    "from": 183.54,
+    "to": 187.17,
+    "sid": 68,
+    "location": 2,
+    "content": "但是当你一旦认为生命不能进行比较",
+    "music": 0
+  },
+  {
+    "from": 187.17,
+    "to": 192.14,
+    "sid": 69,
+    "location": 2,
+    "content": "你可能就跟道德主义开始投怀送抱了",
+    "music": 0
+  },
+  {
+    "from": 193.88,
+    "to": 197.339,
+    "sid": 70,
+    "location": 2,
+    "content": "那我经常跟同学讲一个类似的故事",
+    "music": 0
+  },
+  {
+    "from": 197.339,
+    "to": 200.459,
+    "sid": 71,
+    "location": 2,
+    "content": "如果你认为可以牺牲一个人的生命",
+    "music": 0
+  },
+  {
+    "from": 200.459,
+    "to": 202.139,
+    "sid": 72,
+    "location": 2,
+    "content": "来保存五个人的生命",
+    "music": 0
+  },
+  {
+    "from": 202.139,
+    "to": 205.92,
+    "sid": 73,
+    "location": 2,
+    "content": "那可能会导致很多很荒谬的结论",
+    "music": 0
+  },
+  {
+    "from": 206.6,
+    "to": 209.74,
+    "sid": 74,
+    "location": 2,
+    "content": "大家可能听过我上课举过的这个例子",
+    "music": 0
+  },
+  {
+    "from": 213.46,
+    "to": 214.54,
+    "sid": 75,
+    "location": 2,
+    "content": "一个人心坏了",
+    "music": 0
+  },
+  {
+    "from": 214.54,
+    "to": 214.96,
+    "sid": 76,
+    "location": 2,
+    "content": "一个人",
+    "music": 0
+  },
+  {
+    "from": 214.96,
+    "to": 215.86,
+    "sid": 77,
+    "location": 2,
+    "content": "肺坏了一个人",
+    "music": 0
+  },
+  {
+    "from": 215.86,
+    "to": 216.76,
+    "sid": 78,
+    "location": 2,
+    "content": "皮坏了一个人",
+    "music": 0
+  },
+  {
+    "from": 216.76,
+    "to": 218.35,
+    "sid": 79,
+    "location": 2,
+    "content": "肝坏了一个人肾坏",
+    "music": 0
+  },
+  {
+    "from": 218.35,
+    "to": 220.18,
+    "sid": 80,
+    "location": 2,
+    "content": "结果你从旁边过",
+    "music": 0
+  },
+  {
+    "from": 220.18,
+    "to": 222.5,
+    "sid": 81,
+    "location": 2,
+    "content": "医生说小伙子身体怎么样",
+    "music": 0
+  },
+  {
+    "from": 222.5,
+    "to": 223.76,
+    "sid": 82,
+    "location": 2,
+    "content": "要不过来一下",
+    "music": 0
+  },
+  {
+    "from": 223.76,
+    "to": 226.1,
+    "sid": 83,
+    "location": 2,
+    "content": "牺牲你一个幸福千万家",
+    "music": 0
+  },
+  {
+    "from": 226.1,
+    "to": 231.73,
+    "sid": 84,
+    "location": 2,
+    "content": "后来发现这五个年轻人都是北大的高材生",
+    "music": 0
+  },
+  {
+    "from": 231.73,
+    "to": 236.82,
+    "sid": 85,
+    "location": 2,
+    "content": "而这个走过来的年轻人是一个智力残疾者",
+    "music": 0
+  },
+  {
+    "from": 236.859,
+    "to": 240.3,
+    "sid": 86,
+    "location": 2,
+    "content": "那牺牲一个智力残疾者的器官",
+    "music": 0
+  },
+  {
+    "from": 240.3,
+    "to": 244.38,
+    "sid": 87,
+    "location": 2,
+    "content": "来挽救五个大有前途的年轻人",
+    "music": 0
+  },
+  {
+    "from": 244.38,
+    "to": 246.16,
+    "sid": 88,
+    "location": 2,
+    "content": "大家觉得这合理吗",
+    "music": 0
+  },
+  {
+    "from": 246.16,
+    "to": 248.89,
+    "sid": 89,
+    "location": 2,
+    "content": "如果你觉得这个合理",
+    "music": 0
+  },
+  {
+    "from": 248.89,
+    "to": 254.14,
+    "sid": 90,
+    "location": 2,
+    "content": "那其实纳粹的种族屠杀似乎也有合理之处",
+    "music": 0
+  },
+  {
+    "from": 254.14,
+    "to": 256.87,
+    "sid": 91,
+    "location": 2,
+    "content": "纳粹当时就认为",
+    "music": 0
+  },
+  {
+    "from": 256.87,
+    "to": 262.39,
+    "sid": 92,
+    "location": 2,
+    "content": "对于没有生存价值的精神病人和这种弱智",
+    "music": 0
+  },
+  {
+    "from": 262.39,
+    "to": 264.91,
+    "sid": 93,
+    "location": 2,
+    "content": "可以进行人道毁灭",
+    "music": 0
+  },
+  {
+    "from": 264.91,
+    "to": 268.46,
+    "sid": 94,
+    "location": 2,
+    "content": "因为这符合最大多数的最大利益",
+    "music": 0
+  },
+  {
+    "from": 268.46,
+    "to": 270.86,
+    "sid": 95,
+    "location": 2,
+    "content": "所以对于我个人而言",
+    "music": 0
+  },
+  {
+    "from": 270.86,
+    "to": 274.37,
+    "sid": 96,
+    "location": 2,
+    "content": "那种忽视道德的功利主义",
+    "music": 0
+  },
+  {
+    "from": 274.37,
+    "to": 277.34,
+    "sid": 97,
+    "location": 2,
+    "content": "我是非常非常的厌恶的",
+    "music": 0
+  },
+  {
+    "from": 277.52,
+    "to": 281.48,
+    "sid": 98,
+    "location": 2,
+    "content": "当然如果你讲究道德的功利主义",
+    "music": 0
+  },
+  {
+    "from": 281.48,
+    "to": 283.6,
+    "sid": 99,
+    "location": 2,
+    "content": "这个我是能够接受的",
+    "music": 0
+  },
+  {
+    "from": 283.6,
+    "to": 285.61,
+    "sid": 100,
+    "location": 2,
+    "content": "很多地方我都提过",
+    "music": 0
+  },
+  {
+    "from": 285.61,
+    "to": 287.98,
+    "sid": 101,
+    "location": 2,
+    "content": "其实道德主义和功利主义",
+    "music": 0
+  },
+  {
+    "from": 288.74,
+    "to": 290.44,
+    "sid": 102,
+    "location": 2,
+    "content": "仔细思考的话",
+    "music": 0
+  },
+  {
+    "from": 290.44,
+    "to": 292.789,
+    "sid": 103,
+    "location": 2,
+    "content": "也许并不一定会有冲突",
+    "music": 0
+  },
+  {
+    "from": 292.789,
+    "to": 294.229,
+    "sid": 104,
+    "location": 2,
+    "content": "因为柏拉图就说了",
+    "music": 0
+  },
+  {
+    "from": 294.229,
+    "to": 295.399,
+    "sid": 105,
+    "location": 2,
+    "content": "什么叫正义",
+    "music": 0
+  },
+  {
+    "from": 295.399,
+    "to": 298.189,
+    "sid": 106,
+    "location": 2,
+    "content": "正义就是他行为本身是正当的",
+    "music": 0
+  },
+  {
+    "from": 298.189,
+    "to": 300.72,
+    "sid": 107,
+    "location": 2,
+    "content": "而通常又能带来良好的结果",
+    "music": 0
+  },
+  {
+    "from": 300.72,
+    "to": 304.5,
+    "sid": 108,
+    "location": 2,
+    "content": "只不过柏拉图把这个通常能带来良好的结果",
+    "music": 0
+  },
+  {
+    "from": 304.5,
+    "to": 306.2,
+    "sid": 109,
+    "location": 2,
+    "content": "拉到了永恒",
+    "music": 0
+  },
+  {
+    "from": 307.6,
+    "to": 311.97,
+    "sid": 110,
+    "location": 2,
+    "content": "那么英国有一个经典的案件叫连体婴儿案",
+    "music": 0
+  },
+  {
+    "from": 311.97,
+    "to": 316.14,
+    "sid": 111,
+    "location": 2,
+    "content": "很多同学经常用这个案件来反驳我的观点",
+    "music": 0
+  },
+  {
+    "from": 316.14,
+    "to": 320.04,
+    "sid": 112,
+    "location": 2,
+    "content": "现在有一对连体婴儿啊",
+    "music": 0
+  },
+  {
+    "from": 320.04,
+    "to": 325.76,
+    "sid": 113,
+    "location": 2,
+    "content": "A和B那么A器官发育完备",
+    "music": 0
+  },
+  {
+    "from": 325.76,
+    "to": 328.72,
+    "sid": 114,
+    "location": 2,
+    "content": "但是B的器官发育不完备",
+    "music": 0
+  },
+  {
+    "from": 328.78,
+    "to": 331.48,
+    "sid": 115,
+    "location": 2,
+    "content": "A的心脏完全正常",
+    "music": 0
+  },
+  {
+    "from": 331.48,
+    "to": 333.25,
+    "sid": 116,
+    "location": 2,
+    "content": "B的大脑不正常",
+    "music": 0
+  },
+  {
+    "from": 333.25,
+    "to": 335.26,
+    "sid": 117,
+    "location": 2,
+    "content": "各种器官不正常",
+    "music": 0
+  },
+  {
+    "from": 335.26,
+    "to": 337.12,
+    "sid": 118,
+    "location": 2,
+    "content": "那现在啊",
+    "music": 0
+  },
+  {
+    "from": 337.12,
+    "to": 343.26,
+    "sid": 119,
+    "location": 2,
+    "content": "B它一切的养分都是靠着A的主动脉来供给的",
+    "music": 0
+  },
+  {
+    "from": 344.06,
+    "to": 346.27,
+    "sid": 120,
+    "location": 2,
+    "content": "那如果你保持现状",
+    "music": 0
+  },
+  {
+    "from": 346.27,
+    "to": 349.56,
+    "sid": 121,
+    "location": 2,
+    "content": "那六个月以后两个孩子都会死亡",
+    "music": 0
+  },
+  {
+    "from": 349.56,
+    "to": 352.14,
+    "sid": 122,
+    "location": 2,
+    "content": "但是如果你进行切割的话",
+    "music": 0
+  },
+  {
+    "from": 352.14,
+    "to": 354.93,
+    "sid": 123,
+    "location": 2,
+    "content": "那个弱一点的B1定会死",
+    "music": 0
+  },
+  {
+    "from": 354.93,
+    "to": 359.6,
+    "sid": 124,
+    "location": 2,
+    "content": "但是这个强一点的A94%的可能性",
+    "music": 0
+  },
+  {
+    "from": 359.6,
+    "to": 361.4,
+    "sid": 125,
+    "location": 2,
+    "content": "有可能会存活",
+    "music": 0
+  },
+  {
+    "from": 361.599,
+    "to": 364.569,
+    "sid": 126,
+    "location": 2,
+    "content": "如果大家有兴趣可以看这部影片",
+    "music": 0
+  },
+  {
+    "from": 364.569,
+    "to": 371.46,
+    "sid": 127,
+    "location": 2,
+    "content": "叫儿童法案讨论的这种令人感到纠结的案件",
+    "music": 0
+  },
+  {
+    "from": 371.58,
+    "to": 374.31,
+    "sid": 128,
+    "location": 2,
+    "content": "那最后法官是如何判决的呢",
+    "music": 0
+  },
+  {
+    "from": 374.31,
+    "to": 378.26,
+    "sid": 129,
+    "location": 2,
+    "content": "法官根本没有采用功利主义的进度",
+    "music": 0
+  },
+  {
+    "from": 378.26,
+    "to": 381.89,
+    "sid": 130,
+    "location": 2,
+    "content": "认为我可以牺牲这个弱一点的",
+    "music": 0
+  },
+  {
+    "from": 381.89,
+    "to": 384.17,
+    "sid": 131,
+    "location": 2,
+    "content": "来保持那个强一点的",
+    "music": 0
+  },
+  {
+    "from": 384.17,
+    "to": 386.28,
+    "sid": 132,
+    "location": 2,
+    "content": "法官没有采取这种进步",
+    "music": 0
+  },
+  {
+    "from": 386.28,
+    "to": 389.61,
+    "sid": 133,
+    "location": 2,
+    "content": "法官采取了一种非常新颖的进度",
+    "music": 0
+  },
+  {
+    "from": 389.61,
+    "to": 392.77,
+    "sid": 134,
+    "location": 2,
+    "content": "他认为在这个案件中",
+    "music": 0
+  },
+  {
+    "from": 392.77,
+    "to": 396.84,
+    "sid": 135,
+    "location": 2,
+    "content": "很明显B是属于一个寄生物",
+    "music": 0
+  },
+  {
+    "from": 396.84,
+    "to": 400.29,
+    "sid": 136,
+    "location": 2,
+    "content": "它在不断地侵夺A的养分",
+    "music": 0
+  },
+  {
+    "from": 400.29,
+    "to": 404.31,
+    "sid": 137,
+    "location": 2,
+    "content": "因为是A用自己的心脏来",
+    "music": 0
+  },
+  {
+    "from": 404.31,
+    "to": 407.19,
+    "sid": 138,
+    "location": 2,
+    "content": "源源不断的为B提供养分",
+    "music": 0
+  },
+  {
+    "from": 407.19,
+    "to": 410.36,
+    "sid": 139,
+    "location": 2,
+    "content": "所以B就相当于一个入侵者",
+    "music": 0
+  },
+  {
+    "from": 410.38,
+    "to": 415.64,
+    "sid": 140,
+    "location": 2,
+    "content": "那因此我们是可以决定来对它进行切割的",
+    "music": 0
+  },
+  {
+    "from": 416.5,
+    "to": 419.82,
+    "sid": 141,
+    "location": 2,
+    "content": "因为按照当时的英国儿童福利法啊",
+    "music": 0
+  },
+  {
+    "from": 419.82,
+    "to": 421.039,
+    "sid": 142,
+    "location": 2,
+    "content": "在这个案件中",
+    "music": 0
+  },
+  {
+    "from": 421.039,
+    "to": 423.019,
+    "sid": 143,
+    "location": 2,
+    "content": "孩子的母亲是不愿意切割的",
+    "music": 0
+  },
+  {
+    "from": 423.019,
+    "to": 424.279,
+    "sid": 144,
+    "location": 2,
+    "content": "他说听天由命吧",
+    "music": 0
+  },
+  {
+    "from": 424.279,
+    "to": 427.519,
+    "sid": 145,
+    "location": 2,
+    "content": "因为任何人都没有权力去决定一个人的身世",
+    "music": 0
+  },
+  {
+    "from": 427.519,
+    "to": 429.46,
+    "sid": 146,
+    "location": 2,
+    "content": "所以孩子的父母说听天由命",
+    "music": 0
+  },
+  {
+    "from": 429.46,
+    "to": 431.68,
+    "sid": 147,
+    "location": 2,
+    "content": "但是医院呢就觉得不合适",
+    "music": 0
+  },
+  {
+    "from": 431.68,
+    "to": 433.45,
+    "sid": 148,
+    "location": 2,
+    "content": "所以医院向法庭诉讼",
+    "music": 0
+  },
+  {
+    "from": 433.45,
+    "to": 435.1,
+    "sid": 149,
+    "location": 2,
+    "content": "希望法院作出裁决",
+    "music": 0
+  },
+  {
+    "from": 435.1,
+    "to": 438.66,
+    "sid": 150,
+    "location": 2,
+    "content": "那法院最后就用到了正当防卫理论",
+    "music": 0
+  },
+  {
+    "from": 439.159,
+    "to": 442.759,
+    "sid": 151,
+    "location": 2,
+    "content": "他认为在这个案件中不是什么避险的问题",
+    "music": 0
+  },
+  {
+    "from": 442.759,
+    "to": 445.099,
+    "sid": 152,
+    "location": 2,
+    "content": "他是正当防卫的问题啊",
+    "music": 0
+  },
+  {
+    "from": 445.099,
+    "to": 448.87,
+    "sid": 153,
+    "location": 2,
+    "content": "因为这个B已经是在对A进行谋杀",
+    "music": 0
+  },
+  {
+    "from": 448.87,
+    "to": 450.4,
+    "sid": 154,
+    "location": 2,
+    "content": "就像溺水的时候",
+    "music": 0
+  },
+  {
+    "from": 450.4,
+    "to": 452.53,
+    "sid": 155,
+    "location": 2,
+    "content": "你死死的掐着一个人的脖子",
+    "music": 0
+  },
+  {
+    "from": 452.53,
+    "to": 454.99,
+    "sid": 156,
+    "location": 2,
+    "content": "那么在这个情况下把你排开",
+    "music": 0
+  },
+  {
+    "from": 454.99,
+    "to": 457.62,
+    "sid": 157,
+    "location": 2,
+    "content": "这是一种正当防卫",
+    "music": 0
+  },
+  {
+    "from": 457.659,
+    "to": 462.2,
+    "sid": 158,
+    "location": 2,
+    "content": "唉我觉得这个解释还是非常非常美妙的",
+    "music": 0
+  },
+  {
+    "from": 462.38,
+    "to": 464.66,
+    "sid": 159,
+    "location": 2,
+    "content": "总之我个人认为",
+    "music": 0
+  },
+  {
+    "from": 464.66,
+    "to": 469.4,
+    "sid": 160,
+    "location": 2,
+    "content": "我们没有权力去任意剥夺他人的生命",
+    "music": 0
+  },
+  {
+    "from": 469.4,
+    "to": 473.54,
+    "sid": 161,
+    "location": 2,
+    "content": "当然从另外一个角度来讲",
+    "music": 0
+  },
+  {
+    "from": 473.86,
+    "to": 476.38,
+    "sid": 162,
+    "location": 2,
+    "content": "在危难来临的时候",
+    "music": 0
+  },
+  {
+    "from": 476.38,
+    "to": 479.36,
+    "sid": 163,
+    "location": 2,
+    "content": "我们可能有一种道德上的义务",
+    "music": 0
+  },
+  {
+    "from": 479.36,
+    "to": 484.25,
+    "sid": 164,
+    "location": 2,
+    "content": "我们可以为了保全别人的生命来牺牲自己",
+    "music": 0
+  },
+  {
+    "from": 484.25,
+    "to": 487.7,
+    "sid": 165,
+    "location": 2,
+    "content": "但这只是对你个人的一种道德义务",
+    "music": 0
+  },
+  {
+    "from": 487.9,
+    "to": 492.56,
+    "sid": 166,
+    "location": 2,
+    "content": "你不能够把它演变为我可以牺牲他人",
+    "music": 0
+  },
+  {
+    "from": 492.56,
+    "to": 494.6,
+    "sid": 167,
+    "location": 2,
+    "content": "来保全我自己",
+    "music": 0
+  },
+  {
+    "from": 494.6,
+    "to": 497.84,
+    "sid": 168,
+    "location": 2,
+    "content": "或保全另一些人的生命",
+    "music": 0
+  },
+  {
+    "from": 497.84,
+    "to": 499.18,
+    "sid": 169,
+    "location": 2,
+    "content": "那就是错误的",
+    "music": 0
+  },
+  {
+    "from": 499.42,
+    "to": 504.82,
+    "sid": 170,
+    "location": 2,
+    "content": "因为道德在绝大多数情况下都是一种自律",
+    "music": 0
+  },
+  {
+    "from": 504.82,
+    "to": 506.35,
+    "sid": 171,
+    "location": 2,
+    "content": "而不是法律",
+    "music": 0
+  },
+  {
+    "from": 506.35,
+    "to": 507.24,
+    "sid": 172,
+    "location": 2,
+    "content": "谢谢各位",
+    "music": 0
+  }
+]
