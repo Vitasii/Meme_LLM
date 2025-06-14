@@ -1,6 +1,22 @@
+# use:
+# --path : 欲embed文件的路径
+# --increment : true-增量embed false-重置embed文件
+
 from dotenv import load_dotenv
 import os
+import argparse
 load_dotenv()
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument('--path', type = str, nargs='+', help = '欲embed图片的路径')
+parser.add_argument('--reset', action='store_true', help = '是否增量embedding')
+
+args = parser.parse_args()
+
+print(f'embedding picture directory names: {args.path}')
+print(f'Reset embedding set: {args.reset}')
+print('===============================================')
 
 CHAT_MODEL="deepseek-v3"
 os.environ["OPENAI_API_KEY"]=os.environ.get("INFINITE_API_KEY") 
@@ -14,7 +30,7 @@ baai_embedding = OpenAIEmbeddings(
 )
 
 from langchain_chroma import Chroma
-chroma_dir = "/scratch1/chroma_db"
+chroma_dir = "tmp/chroma_db"
 docsearch_chroma = Chroma(
     embedding_function=baai_embedding,
     persist_directory=chroma_dir,
@@ -23,7 +39,11 @@ docsearch_chroma = Chroma(
 
 from langchain_core.documents import Document
 
-picture_paths = ["../src/output/vv",]
+
+picture_paths = []
+for path in args.path:
+    picture_paths.append(os.path.join('src/output', path))
+print(f'embedding picture paths: {picture_paths}')
 
 titles = []
 paths = []
@@ -41,6 +61,11 @@ for picture_path in picture_paths:
             # print(filename)
             cnt += 1
 
-docsearch_chroma.reset_collection()
+if args.reset:
+    docsearch_chroma.reset_collection()
+    print('embedding already reset')
+print('===============================================') 
+   
 for i in range(0,len(documents),64):
     docsearch_chroma.add_documents(documents[i:i+64])
+    print(f'successfully embed: {i}')
