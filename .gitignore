@@ -1,3 +1,5 @@
 .env
 
 find_meme/tmp/
+
+tmp/
