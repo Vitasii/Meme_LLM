@@ -9,7 +9,7 @@ load_dotenv()
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('--path', type = str, nargs='+', help = '欲embed图片的在src/output下的相对路径')
+parser.add_argument('--path', type = str, nargs='+', default = [''], help = '欲embed图片的在src/output下的相对路径')
 parser.add_argument('--reset', action='store_true', help = '选择--reset则并非增量embed')
 
 args = parser.parse_args()
