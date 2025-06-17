@@ -6,18 +6,23 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
+import re, time, json, math, threading, random
+from openai import RateLimitError
 
 load_dotenv()
 
 CHAT_MODEL="deepseek-v3"
+
+CHAT_MODEL2="llama-3.3-70b-instruct"
+
 openai_api_key = os.environ.get("INFINITE_API_KEY")
 openai_base_url = os.environ.get("INFINITE_BASE_URL")
 
 client = OpenAI(api_key=openai_api_key, base_url=openai_base_url)
 
-def get_response(prompt): 
+def get_response(prompt, model_name): 
     response = client.chat.completions.create(
-        model=CHAT_MODEL,
+        model=model_name,
         messages=[{"role": "user", "content": prompt},]
     )
     return response.choices[0].message.content
@@ -44,6 +49,7 @@ def get_image(img_path):
     except Exception as e:
         return None  
 
+# prompt for judgement
 def return_prompt(query, meme_name):
     
     prompt = f"""现在有一个希望找到一个meme图的询问和一个回答（以meme的文字内容为形式给出）。
@@ -65,21 +71,17 @@ def return_prompt(query, meme_name):
     
     ############
     
-    格式要求：你需要按
+    格式要求：你需要按以下个格式来格式化你的输出。
     {{
-        "fluency": {{
+        "相关性": {{
         "score": <score>,
         "explanation": "<explanation>"
         }},
-        "creativity": {{
+        "趣味性 ": {{
         "score": <score>,
         "explanation": "<explanation>"
         }},
-        "effectiveness": {{
-        "score": <score>,
-        "explanation": "<explanation>"
-        }},
-        "politeness": {{
+        "针对性": {{
         "score": <score>,
         "explanation": "<explanation>"
         }}
@@ -87,19 +89,48 @@ def return_prompt(query, meme_name):
     """
 
     return prompt
+
+# copied from lab6
+def my_parse_judge_output(judge_output):
+    # this inherited function is widely used in research repositories
+    # it does some simple fixes to the output to make it a valid JSON
+    try:
+        # 尝试提取花括号包裹的部分
+        match = re.search(r"\{.*\}", judge_output, re.DOTALL)
+        if not match:
+            raise ValueError("No JSON object found in the output.")
+        
+        json_str = match.group(0)
+
+        # 简单修复常见 JSON 错误：缺逗号、缺括号等
+        json_str = re.sub(r'("explanation"\s*:\s*"[^"]+)"\s*(")', r'\1,\2', json_str)  # 补逗号
+        json_str = json_str.strip()
+
+        # 尝试解析 JSON
+        return json.loads(json_str)
+
+    except Exception as e:
+        print(f"Error parsing judge output: {e}")
+        print(f"Raw output: {judge_output}")
+        return {
+            "相关性": {"score": 10, "explanation": "Failed to parse"},
+            "趣味性": {"score": 10, "explanation": "Failed to parse"},
+            "针对性": {"score": 10, "explanation": "Failed to parse"}
+        }
      
-def judge_meme(candidates, k):
+def judge_meme(candidates, k, query):
     can_and_score = []
     for name in candidates:
-        judge = get_response(return_prompt(name))
-        scores = judge.split('\n')
-        sum_score = 0
-        for i in scores:
-            sum_score += float(i)
+        judgement = my_parse_judge_output(get_response(return_prompt(query, name[1]), CHAT_MODEL2))
+        print(f"judgement of {name[1]}:")
+        print(judgement)
+        sum_score = 1 * judgement['相关性']['score'] 
+        sum_score += 1 * judgement['趣味性']['score'] 
+        sum_score += 1 * judgement['针对性']['score']
         can_and_score.append((name, sum_score))
         
     sorted_candidates = sorted(can_and_score, key=lambda pair: pair[1], reverse=True)
-    
+    print(sorted_candidates)
     select_list = []
     for i in range(min(k, len(sorted_candidates))):
         select_list.append(sorted_candidates[i][0])
@@ -107,7 +138,7 @@ def judge_meme(candidates, k):
     return select_list
    
 
-def find_meme(query):
+def find_meme(query, num_meme):
 
     prompt = f"""
     你是一个文字生成器。我将会给你一段文本，你需要根据它生成一些与这段文本相关的句子。你可以使用以下方法：
@@ -133,20 +164,33 @@ def find_meme(query):
     2. 句子的总数量大概在10左右。
     """
 
-    response = get_response(prompt)
+    num_candidate = math.ceil(num_meme / 2)
+    
+    response = get_response(prompt, CHAT_MODEL)
     responses = response.split('\n')
+    print("text responses generated:")
     print(responses)
+    print("===================================")
 
     image_list = []
     candidate_names = []
     for text in responses:
-        docs = docsearch_chroma.similarity_search(text, k=1)
+        docs = docsearch_chroma.similarity_search(text, k=num_candidate)
         for result in docs:
             print(result)
-            cur_path = os.path.join(result.metadata['path'], result.page_content)
-            candidate_names.append(cur_path)
-        
-       
+            candidate_names.append((result.metadata['path'], result.page_content))
+    print("meme candidates:")
+    print(candidate_names)
+    print("===================================")
+    
+    meme_list = judge_meme(candidate_names, num_meme, query)
+    print("===================================")
+    print("meme selected:")
+    print(meme_list)
+    print("===================================")
+    image_list = []
+    for meme in meme_list:
+        image_path = os.path.join(meme[0], meme[1])
         image_list.append(get_image(image_path))
         
     return image_list
@@ -154,8 +198,9 @@ def find_meme(query):
 
 demo = gr.Interface(
     fn=find_meme,
-    inputs=gr.Textbox(label="query"), 
-    outputs=gr.Gallery(label="图片"),
+    inputs=[gr.Textbox(label="query"),  
+            gr.Slider(minimum=1, maximum=10, step=1, label="# of generated memes")], 
+    outputs=gr.Gallery(label="generated memes"),
 )
 
 demo.launch()
