@@ -3,3 +3,5 @@
 find_meme/tmp/
 
 tmp/
+
+.gradio/
